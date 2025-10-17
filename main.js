@@ -10,3 +10,10 @@ let typed = new Typed("#typed-text", {
   backSpeed: 90, // O‘chirish tezligi
   loop: true, // Doimiy aylanishi
 });
+
+
+function hi () {
+  console.log("hi")
+}
+
+hi()
