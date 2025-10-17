@@ -1,0 +1,29 @@
+/* Umumiy stil */
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #0f0f1a, #1e1e2f);
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  background: linear-gradient(90deg, #ff6b6b, #feca57, #48dbfb, #5f27cd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  color: #ccc;
+  margin-top: 10px;
+  font-size: 1.1rem;
+}
